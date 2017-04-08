@@ -5,8 +5,8 @@ Table of content:
 * AutoLogin ( start process when pi boot )
 
 ## Commands
-	* start desktop GUI
-	`startx`
+start desktop GUI
+`startx`
 
 
 ## VNC VIEWER on Mac osx:
