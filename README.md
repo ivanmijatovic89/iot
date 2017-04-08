@@ -1,6 +1,7 @@
-# iot Basic setup
+# iot Basic
 
-VNC VIEWER on Mac osx:
+# VNC VIEWER on Mac osx:
+
 	https://smittytone.wordpress.com/2016/03/02/mac_remote_desktop_pi/
 	
 	sudo apt-get install tightvncserver
