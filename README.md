@@ -3,7 +3,7 @@
 Table of Contents
 =================
 
-  * [Dockerfile.vim](#dockerfilevim)
+  * [Dockerfile.vim](#AutoLogin)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
