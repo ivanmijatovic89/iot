@@ -1,7 +1,12 @@
 # iot Basic
 Table of content:
+* Commands
 * VNC VIEWER (remote connection)
 * AutoLogin ( start process when pi boot )
+
+## Commands
+	* start desktop GUI
+	`startx`
 
 
 ## VNC VIEWER on Mac osx:
@@ -34,4 +39,7 @@ Table of content:
 	# go in terminal and type
 	`vi ~/.bashcr`
 	# add code that you wanna to run EACH time when system boot.
-	# example  `tightvncserver`         
+	# example  `tightvncserver`
+
+
+Pogledaj sta je ovo 'tasksel' - kaze da mozes da napravis webserver         
