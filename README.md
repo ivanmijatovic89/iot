@@ -3,7 +3,7 @@
 Table of Contents
 =================
 
-  * [Dockerfile.vim](#AutoLogin-the-Raspbian)
+  * [AutoLogin the Raspbian](#AutoLogin-the-Raspbian)
   * [Screenshot](#screenshot)
   * [Installation](#installation)
         * [OR using Pathogen:](#or-using-pathogen)
