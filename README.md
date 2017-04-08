@@ -1,5 +1,7 @@
 # iot Basic
-- [iot Basic](#iot-basic)
+
+Table of Contents
+=================
   * [Commands](#commands)
   * [VNC VIEWER on Mac osx:](#vnc-viewer-on-mac-osx-)
   * [AutoLogin the Raspbian](#autologin-the-raspbian)
@@ -42,6 +44,10 @@
 	`vi ~/.bashcr`
 	# add code that you wanna to run EACH time when system boot.
 	# example  `tightvncserver`
+
+
+### Toc Generator
+[https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
 
 
 Pogledaj sta je ovo 'tasksel' - kaze da mozes da napravis webserver         
