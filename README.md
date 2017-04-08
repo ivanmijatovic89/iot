@@ -1,20 +1,9 @@
 # iot Basic
+- [iot Basic](#iot-basic)
+  * [Commands](#commands)
+  * [VNC VIEWER on Mac osx:](#vnc-viewer-on-mac-osx-)
+  * [AutoLogin the Raspbian](#autologin-the-raspbian)
 
-Table of Contents
-=================
-
-  * [AutoLogin the Raspbian](#AutoLogin-the-Raspbian)
-  * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
-  * [License](#license)
-
-
-Table of content:
-[Commands](#AutoLogin the Raspbian)
-* VNC VIEWER (remote connection)
-* AutoLogin ( start process when pi boot )
 
 ## Commands
 | command       | Description |
