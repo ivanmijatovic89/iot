@@ -1,6 +1,6 @@
 # iot Basic
 Table of content:
-* [Commands](#AutoLogin the Raspbian)
+[Commands](#AutoLogin the Raspbian)
 * VNC VIEWER (remote connection)
 * AutoLogin ( start process when pi boot )
 
