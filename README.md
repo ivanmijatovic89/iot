@@ -52,13 +52,17 @@
 ## Install Camera V2 Module
 	* https://www.youtube.com/watch?v=WNKbZsrsKVs 
 	* https://pimylifeup.com/raspberry-pi-webcam-server/
-	
+	sudo apt-get install  libjpeg62
 
 
 	* https://www.youtube.com/watch?v=ojJhLQBiv0I 
 	* https://www.youtube.com/watch?v=e9PK6eLl4tM
 	* `raspistill -0 image.jpg`
 	* `raspivid -0  video.h264 -t 5000`
+
+## Problems
+	* xauth timeout in locking authority file /home/pi/.xauthority  
+	* http://unix.stackexchange.com/questions/215558/why-am-i-getting-this-message-from-xauth-timeout-in-locking-authority-file-ho
 
 ### Toc Generator
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
