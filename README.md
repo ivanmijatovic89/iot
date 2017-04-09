@@ -32,7 +32,7 @@
 ## AutoLogin the Raspbian
 	https://incoherentmusings.wordpress.com/2016/04/25/setting-up-vnc-server-on-raspberry-pi-to-autostart-on-reboot/
 
-	
+
 	https://www.youtube.com/watch?v=fLtsXwdM4n0 (7:20)
 	
 	# type in terminal
@@ -50,8 +50,15 @@
 	# example  `tightvncserver`
 
 ## Install Camera V2 Module
+	* https://www.youtube.com/watch?v=WNKbZsrsKVs 
+	* https://pimylifeup.com/raspberry-pi-webcam-server/
+	
+
+
 	* https://www.youtube.com/watch?v=ojJhLQBiv0I 
 	* https://www.youtube.com/watch?v=e9PK6eLl4tM
+	* `raspistill -0 image.jpg`
+	* `raspivid -0  video.h264 -t 5000`
 
 ### Toc Generator
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
