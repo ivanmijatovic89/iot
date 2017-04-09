@@ -11,6 +11,8 @@
 | command       | Description |
 | ------------- |:-------------:|
 | startx      	| start desktop GUI |
+|hostname -I	| get ip address of pi |
+
 
 
 ## VNC VIEWER on Mac osx:
@@ -28,6 +30,8 @@
 	vnc://pi.local:1
 
 ## AutoLogin the Raspbian
+	https://incoherentmusings.wordpress.com/2016/04/25/setting-up-vnc-server-on-raspberry-pi-to-autostart-on-reboot/
+
 	
 	https://www.youtube.com/watch?v=fLtsXwdM4n0 (7:20)
 	
@@ -45,6 +49,9 @@
 	# add code that you wanna to run EACH time when system boot.
 	# example  `tightvncserver`
 
+## Install Camera V2 Module
+	* https://www.youtube.com/watch?v=ojJhLQBiv0I 
+	* https://www.youtube.com/watch?v=e9PK6eLl4tM
 
 ### Toc Generator
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
