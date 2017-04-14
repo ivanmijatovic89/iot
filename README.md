@@ -72,23 +72,23 @@
 	* sudo modprobe bcm2835-v4l2
 
 ## Sensors
-	https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Model-B-the-sensor-module-package-16/32785335903.html?spm=2114.13010608.0.0.RZVziT
+https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Model-B-the-sensor-module-package-16/32785335903.html?spm=2114.13010608.0.0.RZVziT
 
-	* DHT11 temperature and humidity sensor module
-	* HC-SR501 infrared human body induction module
-	* DS1302 real time clock module
-	* The rain sensor module
-	* Sound sensor moduel
-	* HC-SR04 ultrasonic sensor
-	* The flame sensor module
-	* KY-008 laser head sensor module
-	* Photosensitive resistance sensor module
-	* The YL-69 soil moisture sensor
-	* Obstacle avoidance sensor
-	* Vibration sensor module
-	* 315M super regenetive module
-	* The tilt sensor module
-	* A path tracing module
+* DHT11 temperature and humidity sensor module
+* HC-SR501 infrared human body induction module
+* DS1302 real time clock module
+* The rain sensor module
+* Sound sensor moduel
+* HC-SR04 ultrasonic sensor
+* The flame sensor module
+* KY-008 laser head sensor module
+* Photosensitive resistance sensor module
+* The YL-69 soil moisture sensor
+* Obstacle avoidance sensor
+* Vibration sensor module
+* 315M super regenetive module
+* The tilt sensor module
+* A path tracing module
 
 
 ### Toc Generator
