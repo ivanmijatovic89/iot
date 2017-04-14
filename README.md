@@ -11,7 +11,7 @@
 | command       | Description |
 | ------------- |:-------------:|
 | startx      	| start desktop GUI |
-|hostname -I	| get ip address of pi |
+| hostname -I	| get ip address of pi |
 
 
 
@@ -60,12 +60,40 @@
 	* `raspistill -0 image.jpg`
 	* `raspivid -0  video.h264 -t 5000`
 
+## Port forwarding:
+	https://pimylifeup.com/raspberry-pi-port-forwarding/
+
+
 ## Problems
 	* xauth timeout in locking authority file /home/pi/.xauthority  
 	* http://unix.stackexchange.com/questions/215558/why-am-i-getting-this-message-from-xauth-timeout-in-locking-authority-file-ho
 
+	* vid_v4lx_start: Failed to open video device /dev/video0     (http://raspberrypi.stackexchange.com/questions/10480/raspi-camera-board-and-motion )
+	* sudo modprobe bcm2835-v4l2
+
+## Sensors
+	https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Model-B-the-sensor-module-package-16/32785335903.html?spm=2114.13010608.0.0.RZVziT
+
+	* DHT11 temperature and humidity sensor module
+	* HC-SR501 infrared human body induction module
+	* DS1302 real time clock module
+	* The rain sensor module
+	* Sound sensor moduel
+	* HC-SR04 ultrasonic sensor
+	* The flame sensor module
+	* KY-008 laser head sensor module
+	* Photosensitive resistance sensor module
+	* The YL-69 soil moisture sensor
+	* Obstacle avoidance sensor
+	* Vibration sensor module
+	* 315M super regenetive module
+	* The tilt sensor module
+	* A path tracing module
+
+
 ### Toc Generator
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
+
 
 
 Pogledaj sta je ovo 'tasksel' - kaze da mozes da napravis webserver         
