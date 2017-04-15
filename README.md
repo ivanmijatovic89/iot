@@ -74,7 +74,7 @@
 ## Sensors
 https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Model-B-the-sensor-module-package-16/32785335903.html?spm=2114.13010608.0.0.RZVziT
 
-* [DHT11](DHT11.md) temperature and humidity sensor module 
+* [DHT11](sensors/DHT11.md) temperature and humidity sensor module 
 * HC-SR501 infrared human body induction module
 * DS1302 real time clock module
 * The rain sensor module
