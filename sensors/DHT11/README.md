@@ -8,4 +8,4 @@ https://github.com/szazo/DHT11_Python
 
 ## GPIO
 
-![GPIO](/img/0.jpg)
+![GPIO](img/0.jpg)
