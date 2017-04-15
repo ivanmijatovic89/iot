@@ -5,3 +5,4 @@
 https://raspberrytips.nl/laser-module-aansturen-via-gpio/
 
 ![Connect](img/connect.jpg)
+![Connect](img/connect2.jpg)
