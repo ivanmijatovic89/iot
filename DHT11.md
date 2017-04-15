@@ -1,4 +1,4 @@
-# DHT11
+# DHT112
 
 
 # iot Basic
@@ -90,9 +90,9 @@ https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Mode
 * Obstacle avoidance sensor
 * Vibration sensor module
 * 315M super regenetive module
-* The tilt sensor module
+* The tilt sensor module 
 * A path tracing module
-
+ 
 
 ### Toc Generator
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
