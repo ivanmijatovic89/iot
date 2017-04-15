@@ -1,11 +1,13 @@
 # DHT11
 
-http://www.uugear.com/portfolio/dht11-humidity-temperature-sensor-module/
-
 https://github.com/szazo/DHT11_Python
 
 `sudo python index.py`
 
-## GPIO
+## How to connect GPIO
 
 ![GPIO](img/0.jpg)
+
+![GPIO](img/1.jpg)
+
+![GPIO](img/2.jpg)
