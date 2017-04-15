@@ -102,3 +102,7 @@ https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md
 
 
 Pogledaj sta je ovo 'tasksel' - kaze da mozes da napravis webserver         
+
+
+# GPIO
+![GPIO](img/gpio.png)
