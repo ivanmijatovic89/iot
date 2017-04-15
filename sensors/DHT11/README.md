@@ -6,8 +6,11 @@ https://github.com/szazo/DHT11_Python
 
 ## How to connect GPIO
 
+`used pin 4 in code`
+
 ![GPIO](img/0.jpg)
 
-![GPIO](img/1.jpg)
 
-![GPIO](img/2.jpg)
+
+
+
