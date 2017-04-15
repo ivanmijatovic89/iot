@@ -10,6 +10,8 @@ https://github.com/szazo/DHT11_Python
 
 ![GPIO](img/0.jpg)
 
+![Connect](img/connect.jpg)
+
 
 
 

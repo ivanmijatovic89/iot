@@ -3,3 +3,5 @@
 `sudo python index.py`
 
 https://raspberrytips.nl/laser-module-aansturen-via-gpio/
+
+![Connect](img/connect.jpg)
