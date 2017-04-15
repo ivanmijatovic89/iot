@@ -81,7 +81,7 @@ https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Mode
 * Sound sensor moduel
 * HC-SR04 ultrasonic sensor
 * The flame sensor module
-* KY-008 laser head sensor module
+* [KY-008](sensors/KY-008/README.md) laser head sensor module
 * Photosensitive resistance sensor module
 * The YL-69 soil moisture sensor
 * Obstacle avoidance sensor
