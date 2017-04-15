@@ -92,8 +92,13 @@ https://www.aliexpress.com/item/HOT-16pcs-lot-Raspberry-Pi-3-Raspberry-Pi-2-Mode
 
 
 ### Toc Generator
+
 [https://ecotrust-canada.github.io/markdown-toc/](https://ecotrust-canada.github.io/markdown-toc/)
 
+
+### PASSWORDLESS SSH ACCESS
+
+https://www.raspberrypi.org/documentation/remote-access/ssh/passwordless.md
 
 
 Pogledaj sta je ovo 'tasksel' - kaze da mozes da napravis webserver         
